@@ -92,6 +92,12 @@ body {
     justify-content: center;
 }
 
+.button-container-row {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Espaço entre os botões */
+}
+
 /* Estilos de entrada de texto */
 .input-title {
     flex: 1;
@@ -160,3 +166,17 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+.input-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espaço entre os elementos */
+}
+
+.name-list {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    padding-left: 0;
+}
+
