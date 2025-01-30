@@ -6,7 +6,7 @@ Este é um simples **Jogo do Amigo Secreto** desenvolvido com **HTML**, **CSS** 
 
 1. O jogo informa o amigo secreto com base nos nomes de amigos informados pelo usuário.
 2. O jogador deve informar no mínimo dois nomes e clicar no botão "Adicionar" que o nome adicionado será exibido na tela.
-3. Apos adicionar todos os nomes dos seus amigos. Deverá clicar no botão "Sotear Amigo" que o  jogo fornecerá o nome do amigo secreto aleatório
+3. Apos adicionar todos os nomes dos seus amigos. Deverá clicar no botão "Sotear Amigo" que o  jogo fornecerá o nome do amigo secreto aleatório.
 4. O jogo termina quando o nome do amigo secreto é exibido na tela.
 
 ## Funcionalidades
